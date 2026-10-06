@@ -1,4 +1,8 @@
-
+/* =========================================================
+   Frontend Practice - Responsive CSS
+   Keeps the original visual style but makes the layout
+   responsive for desktop, tablet and mobile.
+   ========================================================= */
 
 * {
     margin: 0;
